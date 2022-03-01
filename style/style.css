@@ -42,7 +42,7 @@
     width: 100%;
     min-height: 700px;
     height: 100%;
-    background-image: url(./img/slide.jpg);
+    background-image: url(/img/slide.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
